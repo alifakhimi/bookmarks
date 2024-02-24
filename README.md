@@ -2,7 +2,17 @@
 
 tools, articles, references, libraries for tech stack
 
-[[_TOC_]]
+- [CheetSheets](#cheetsheets)
+- [Articles](#articles)
+- [Programming Languages](#programming-languages)
+- [Databases](#databases)
+- [Tools](#tools)
+- [Libraries](#libraries)
+- [Web](#web)
+- [Cloud Computing](#cloud-computing)
+- [Microservices Tools](#microservices-tools)
+- [Applications](#applications)
+- [Docker Images](#docker-images)
 
 ## CheetSheets
 
@@ -114,9 +124,13 @@ tools, articles, references, libraries for tech stack
 
 - [Authelia](https://github.com/authelia/authelia)
 
-### Build UI
+### UI Tools
 
 - [Storybook](https://storybook.js.org/)
+- [Openblocks](https://openblocks.dev/) - 🔥 🔥 🔥 The Open Source Retool Alternative
+- [microweber](https://github.com/microweber/microweber) - Drag and Drop Website Builder and CMS with E-commerce - (Built on Laravel framework)
+- [GrapesJS](https://grapesjs.com/) - Free and Open Source Web Builder Framework
+- [Silex](https://github.com/silexlabs/Silex) - Silex live web creation, free/libre no-code website builder, next gen Webflow for the static web - Based on GrapesJS
 
 ## Libraries
 
@@ -230,6 +244,18 @@ tools, articles, references, libraries for tech stack
 ### BPMS
 
 - [imixs](https://www.imixs.org/)
+
+### Business
+
+- ERP
+  - [ERPNext](https://erpnext.com/)
+  - [ERP5](https://www.erp5.com/)
+  - [Tryton](https://www.tryton.org/)
+  - [IDURAR](https://github.com/idurar/idurar-erp-crm) - IDURAR Open Source ERP CRM Multi-Currency | Node Js React AntD MERN
+- CRM
+  - [astuto](https://github.com/astuto/astuto) - A free, open source, self-hosted customer feedback tool 🦊
+  - [chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
+  - [twenty](https://twenty.com/) - Building a modern alternative to Salesforce, powered by the community.
 
 ## Docker Images
 

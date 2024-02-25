@@ -29,7 +29,7 @@ tools, articles, references, libraries for tech stack
 
 ### Standards
 
-- [Twelve-Factor](https://12factor.net/)
+- [Twelve-Factor](https://12factor.net/) - In the modern era, software is commonly delivered as a service: called web apps, or software-as-a-service. The twelve-factor app is a methodology for building software-as-a-service apps.
 
 ### Startup
 
@@ -96,6 +96,8 @@ tools, articles, references, libraries for tech stack
 - MySql
 - NoSql
   - [ArangoDB](https://www.arangodb.com/)
+- Articles
+  - [@mehdihadeli](https://github.com/mehdihadeli/awesome-software-architecture/blob/main/docs/messaging/change-data-capture.md) - Change Data Capture (CDC)
 
 ## Tools
 
@@ -144,6 +146,10 @@ tools, articles, references, libraries for tech stack
   - [GRPC - TutorialEdge](https://tutorialedge.net/golang/go-grpc-beginners-tutorial/)
   - [WebRTC - Pion](https://github.com/pion)
     - [Guide](https://gabrieltanner.org/blog/broadcasting-ion-sfu/)
+  - [lo](https://github.com/samber/lo) - 💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
+  - [GoLang CMS](https://github.com/gouniverse/cms) - A "plug-and-play" content managing system (CMS) for GoLang
+  - Security
+    - [bluemonday](https://github.com/microcosm-cc/bluemonday) - a fast golang HTML sanitizer (inspired by the OWASP Java HTML Sanitizer) to scrub user generated content of XSS
 - JavaScript
   - [Documentation - JSDoc](https://devhints.io/jsdoc)
   - [Sentry - Application Performance Monitoring & Error Tracking ...](https://sentry.io/)
@@ -160,6 +166,7 @@ tools, articles, references, libraries for tech stack
   - [Axios-Transformer](https://github.com/ftgibran/axios-transformer)
   - [JSON serialization/deserialization](https://github.com/pichillilorenzo/jackson-js)
   - [Supabase - Firebase alternative](https://supabase.com/)
+  - [tremor](https://github.com/tremorlabs/tremor) - React components to build charts and dashboards
   - Test
     - [Jest](https://github.com/facebook/jest)
     - [Cypress](https://github.com/cypress-io/cypress)
@@ -174,6 +181,9 @@ tools, articles, references, libraries for tech stack
     - [Rekit](https://rekit.js.org/)
     - [React Proto](https://github.com/React-Proto/react-proto)
     - [Plasmic](https://github.com/plasmicapp/plasmic)
+    - [VvvebJs](https://github.com/givanz/VvvebJs) - Drag and drop website builder javascript library.
+    - [Tiptap Editor](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
+    - [Novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
   - [NodeJs](https://nodejs.dev/)
     - [Vercel](https://vercel.com/)
       - [Vercel - Commerce](https://github.com/vercel/commerce)
@@ -194,9 +204,17 @@ tools, articles, references, libraries for tech stack
 - Monitoring
   - [Cronitor](https://cronitor.io/)
 
-## Cloud Computing
+## Cloud
 
 - [Apache CloudStack](https://cloudstack.apache.org/)
+- [Dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
+  - [@flanker72](https://medium.com/@flanker72/building-your-own-paas-powered-by-dokku-db58b33edd28) - Building your own PaaS powered by Dokku
+  - [@selvaganesh93](https://selvaganesh93.medium.com/diy-how-to-build-own-paas-by-yourself-self-hosted-heroku-architecture-on-ubuntu-3a4a6f4c4f5) - DIY: How to build own PaaS by yourself(Self hosted heroku architecture) on Ubuntu
+  - [@bitkidd](https://dev.to/bitkidd/deploy-your-node-js-app-without-a-hassle-28ke) - Deploy your Node.js app without a hassle
+- [CapRover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
+- [stagecoach](https://github.com/apostrophecms/stagecoach) - Painlessly deploy node.js applications to your staging and production servers. Use a standard VPS or dedicated server to host both Node and traditional Apache-based websites. Pairs nicely with nginx and mechanic.
+- [Cloud Foundry](https://www.cloudfoundry.org/) - Cloud Foundry, The Proven Development Platform For Cloud-Native Applications
+- [fn](https://github.com/fnproject/fn) - The container native, cloud agnostic serverless platform.
 
 ## Microservices Tools
 
@@ -207,6 +225,8 @@ tools, articles, references, libraries for tech stack
 - [API Gateway - Krakend](https://www.krakend.io/)
 - [Open Telemetry](https://opentelemetry.io/)
 - [Harbor - Image Registry](https://goharbor.io/)
+- [gorush](https://github.com/appleboy/gorush) - A push notification server written in Go (Golang).
+- [Plausible Analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 
 ## Applications
 
@@ -273,9 +293,15 @@ tools, articles, references, libraries for tech stack
   - [Tryton](https://www.tryton.org/)
   - [IDURAR](https://github.com/idurar/idurar-erp-crm) - IDURAR Open Source ERP CRM Multi-Currency | Node Js React AntD MERN
 - CRM
+  - [Vvveb](https://github.com/givanz/Vvveb) - Powerful and easy to use cms to build websites, blogs or ecommerce stores.
   - [astuto](https://github.com/astuto/astuto) - A free, open source, self-hosted customer feedback tool 🦊
   - [chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
   - [twenty](https://twenty.com/) - Building a modern alternative to Salesforce, powered by the community.
+
+### Hostings
+
+- [Virtualmin]() -
+  - [virtualmin-nginx-reverse-proxy-hook](https://github.com/btactic/virtualmin-nginx-reverse-proxy-hook/blob/master/virtualmin-nginx-hook) - Virtualmin hook for creating Nginx reverse proxy configuration files
 
 ## Docker Images
 

@@ -210,6 +210,26 @@ tools, articles, references, libraries for tech stack
 
 ## Applications
 
+### ChatBots
+
+- [Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) - Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM) QA app with langchain
+- [Lobe Chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design ChatGPT/LLMs UI/Framework. Supports speech-synthesis, multi-modal, and extensible plugin system. One-click FREE deployment of your private ChatGPT/Gemini/Ollama chat application.
+
+### Link Management
+
+- [Dub](https://github.com/dubinc/dub) - Open-source link management infrastructure.
+- [Golang URL Shortener](https://github.com/Furkan-Gulsen/golang-url-shortener) - This URL shortener service, built with Go and Hexagonal Architecture, leverages a serverless approach for efficient scalability and performance.
+- [Stub](https://github.com/Snazzah/stub) - A self-hostable modified fork of Dub: An open-source link shortener.
+- [UrlHub](https://github.com/realodix/urlhub) - ✂️ URL shortener web application based on the Laravel PHP Framework.
+- [Shortlink](https://github.com/shortlink-org/shortlink) - Shortlink service (Microservice example)
+- [YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 The de facto standard self hosted URL shortener in PHP
+- [shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener
+- [Pygmy](https://github.com/amitt001/pygmy) - An open-source, feature rich & extensible url-shortener + analytics written in Python 🍪
+- [Polr](https://github.com/cydrobolt/polr) - 🚡 A modern, powerful, and robust URL shortener
+- [Lstu](https://framagit.org/fiat-tux/hat-softwares/lstu) - Let's Shorten That Url — URL shortening service
+- [Kutt.it](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
+- [Awesome Url Shortener](https://github.com/738/awesome-url-shortener) - 🔗 A curated list of awesome url shortener
+
 ### VPN
 
 - [Softether](https://www.softether.org/)

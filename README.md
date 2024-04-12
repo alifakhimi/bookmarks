@@ -305,6 +305,10 @@ tools, articles, references, libraries for tech stack
 - [Virtualmin]() -
   - [virtualmin-nginx-reverse-proxy-hook](https://github.com/btactic/virtualmin-nginx-reverse-proxy-hook/blob/master/virtualmin-nginx-hook) - Virtualmin hook for creating Nginx reverse proxy configuration files
 
+### Security
+
+- [IPBan](https://github.com/DigitalRuby/IPBan) - IPBan - Free software to block out attackers quickly and easily on Linux and Windows
+
 ## Docker Images
 
 - [LinuxServer](https://fleet.linuxserver.io/)

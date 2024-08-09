@@ -125,6 +125,7 @@ tools, articles, references, libraries for tech stack
 ### SSO - Auth Services
 
 - [Authelia](https://github.com/authelia/authelia)
+- [Ory](https://www.ory.sh) - Ory offers reliable APIs and services for authentication, authorization, access control, and delegation.
 
 ### UI Tools
 
@@ -148,6 +149,10 @@ tools, articles, references, libraries for tech stack
     - [Guide](https://gabrieltanner.org/blog/broadcasting-ion-sfu/)
   - [lo](https://github.com/samber/lo) - 💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
   - [GoLang CMS](https://github.com/gouniverse/cms) - A "plug-and-play" content managing system (CMS) for GoLang
+  - [migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
+  - [mimetype](https://github.com/gabriel-vasile/mimetype) - A fast Golang library for media type and file extension detection, based on magic numbers
+  - [pond](https://github.com/alitto/pond) - 🔘 Minimalistic and High-performance goroutine worker pool written in Go
+  - [Gonum](https://github.com/gonum/gonum) - Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more
   - Security
     - [bluemonday](https://github.com/microcosm-cc/bluemonday) - a fast golang HTML sanitizer (inspired by the OWASP Java HTML Sanitizer) to scrub user generated content of XSS
 - JavaScript
@@ -160,6 +165,8 @@ tools, articles, references, libraries for tech stack
   - [Social Marketing - WeChaty](https://wechaty.js.org/)
   - [React Static - PWA](https://github.com/react-static/react-static)
   - [Craft JS](https://craft.js.org/)
+  - [Chakra UI](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
+  - [Open Chakra](https://github.com/premieroctet/openchakra) - ⚡️ Full-featured visual editor and code generator for React using Chakra UI
   - [HTML2Canvas](https://html2canvas.hertzen.com/)
   - [Merge Images](https://github.com/lukechilds/merge-images)
   - [Class Transformer](https://github.com/typestack/class-transformer)
@@ -167,6 +174,17 @@ tools, articles, references, libraries for tech stack
   - [JSON serialization/deserialization](https://github.com/pichillilorenzo/jackson-js)
   - [Supabase - Firebase alternative](https://supabase.com/)
   - [tremor](https://github.com/tremorlabs/tremor) - React components to build charts and dashboards
+  - [Visx](https://github.com/airbnb/visx/) - 🐯 visx | visualization components
+  - [Nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
+  - [Apache ECharts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
+  - [React Hooks](https://github.com/alibaba/hooks) - A high-quality & reliable React Hooks library.
+  - [Floating UI](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
+  - [React Spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library
+  - [React Three Fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
+  - [Zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
+  - [gltfjsx](https://github.com/pmndrs/gltfjsx) - 🎮 Turns GLTFs into JSX components
+  - [Puppeteer](https://github.com/puppeteer/puppeteer) - Puppeteer is a JavaScript library which provides a high-level API to control Chrome or Firefox over the DevTools Protocol or WebDriver BiDi. Puppeteer runs in the headless (no visible UI) by default
+  - [React PDF](https://github.com/diegomura/react-pdf) - 📄 Create PDF files using React
   - Test
     - [Jest](https://github.com/facebook/jest)
     - [Cypress](https://github.com/cypress-io/cypress)
@@ -184,6 +202,8 @@ tools, articles, references, libraries for tech stack
     - [VvvebJs](https://github.com/givanz/VvvebJs) - Drag and drop website builder javascript library.
     - [Tiptap Editor](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
     - [Novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
+    - [TUI Editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor.
+    - [Lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
   - [NodeJs](https://nodejs.dev/)
     - [Vercel](https://vercel.com/)
       - [Vercel - Commerce](https://github.com/vercel/commerce)
@@ -201,6 +221,7 @@ tools, articles, references, libraries for tech stack
     - [bocoup](https://bocoup.com/)
 - Javascript
   - [Remix](https://remix.run/)
+  - [Refine](https://github.com/refinedev/refine) - A React Framework for building internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - Monitoring
   - [Cronitor](https://cronitor.io/)
 
@@ -226,6 +247,7 @@ tools, articles, references, libraries for tech stack
 - [Open Telemetry](https://opentelemetry.io/)
 - [Harbor - Image Registry](https://goharbor.io/)
 - [gorush](https://github.com/appleboy/gorush) - A push notification server written in Go (Golang).
+- [Gorse Recommender System Engine](https://github.com/gorse-io/gorse) - Gorse open source recommender system engine
 - [Plausible Analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 
 ## Applications
@@ -308,6 +330,9 @@ tools, articles, references, libraries for tech stack
 ### Security
 
 - [IPBan](https://github.com/DigitalRuby/IPBan) - IPBan - Free software to block out attackers quickly and easily on Linux and Windows
+
+### Analytics
+- [matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically with the leading open source alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visualise this data and extract insights. Privacy is built-in. Liberating Web Analytics.
 
 ## Docker Images
 

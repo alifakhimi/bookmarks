@@ -80,8 +80,6 @@ tools, articles, references, libraries for tech stack
 
 ### General/Cross-Database
 
-- Metabase
-
 ### Relational Databases
 
 - PostgreSQL
@@ -309,6 +307,10 @@ tools, articles, references, libraries for tech stack
 
 ### Business
 
+- BI / Data Visualization
+  - [Redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
+  - [Superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
+  - [Metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company 😋
 - ERP
   - [ERPNext](https://erpnext.com/)
   - [ERP5](https://www.erp5.com/)

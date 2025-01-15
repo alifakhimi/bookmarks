@@ -58,6 +58,7 @@ tools, articles, references, libraries for tech stack
 
 - [BogoToBogo](https://bogotobogo.com/)
 - [Egghead - Learn Modern Web Development](https://egghead.io/)
+- [Multitenant SaaS database tenancy patterns - AzureSQL](https://learn.microsoft.com/en-us/azure/azure-sql/database/saas-tenancy-app-design-patterns?view=azuresql) - Multitenant SaaS database tenancy patterns
 
 ### Javascript
 
@@ -250,10 +251,17 @@ tools, articles, references, libraries for tech stack
 
 ## Applications
 
-### ChatBots
+### Automations
+
+- [OpenRPA](https://github.com/open-rpa/openrpa) - Free Open Source Enterprise Grade RPA
+
+### AI/ChatBots
 
 - [Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) - Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM) QA app with langchain
 - [Lobe Chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design ChatGPT/LLMs UI/Framework. Supports speech-synthesis, multi-modal, and extensible plugin system. One-click FREE deployment of your private ChatGPT/Gemini/Ollama chat application.
+- [Botpress Cloud](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
+- [FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
+- [Eliza 🤖](https://github.com/elizaos/eliza) - Autonomous agents for everyone
 
 ### Link Management
 
